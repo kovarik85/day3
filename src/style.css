@@ -1,3 +1,16 @@
-h1, p {
-  font-family: Lato;
+.button {
+  background-color: #00bfb2;
+  width: min-content;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  font: 1em sans-serif;
+  font-weight: bold;
+  border-radius: 4px;
+  margin: 20px;
+}
+
+.disabled {
+  background-color: grey;
+  cursor: not-allowed;
 }
