@@ -14,3 +14,7 @@
   background-color: grey;
   cursor: not-allowed;
 }
+.button:hover {
+  background-color: cornflowerblue;
+  cursor: pointer;
+}
